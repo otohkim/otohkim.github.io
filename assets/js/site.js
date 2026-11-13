@@ -200,8 +200,11 @@
     document.body.appendChild(lb);
     document.querySelectorAll("img.zoom").forEach(function (img) {
       img.addEventListener("click", function () {
-        lb.innerHTML = '<img alt="" src="' + (img.getAttribute("data-full") || img.src) + '">';
+        lb.innerHTML = '<button class="close" type="button">✕ বন্ধ</button>' +
+          (window.innerWidth < 900 ? '<span class="hint">পাশে টেনে দেখো</span>' : "") +
+          '<img alt="" src="' + (img.getAttribute("data-full") || img.src) + '">';
         lb.classList.add("open");
+        lb.scrollLeft = 0; lb.scrollTop = 0;
       });
     });
   }

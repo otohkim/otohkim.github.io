@@ -234,10 +234,14 @@ figure img { display: block; margin: 0 auto; }
 .foot-brand b { font-family: var(--hand); font-weight: 400; font-size: 1.3rem; }
 
 /* lightbox */
-.lightbox { position: fixed; inset: 0; background: rgba(34,48,58,.92); z-index: 100; display: none; align-items: center; justify-content: center; padding: 1rem; overflow: auto; }
+.lightbox { position: fixed; inset: 0; background: rgba(34,48,58,.985); z-index: 100; display: none; overflow: auto; -webkit-overflow-scrolling: touch; }
 .lightbox.open { display: flex; }
-.lightbox img { max-width: none; width: min(1920px, 200vw); }
-@media (min-width: 900px) { .lightbox img { width: min(1920px, 96vw); } }
+/* margin:auto centres the picture when it fits and lets the whole of it
+   scroll (left edge included) when it is wider than the screen */
+.lightbox img { margin: auto; max-width: none; width: min(1920px, 200vw); flex: 0 0 auto; padding: 3.2rem .6rem 1rem; box-sizing: content-box; }
+@media (min-width: 900px) { .lightbox img { width: min(1920px, 94vw); } }
+.lightbox .close { position: fixed; top: .6rem; right: .8rem; z-index: 101; font: inherit; font-size: 1.05rem; color: var(--ink); background: var(--card); border: 0; padding: .3rem .9rem; cursor: pointer; }
+.lightbox .hint { position: fixed; top: .75rem; left: .9rem; color: #fff; font-size: .85rem; opacity: .85; }
 
 @media (max-width: 520px) {
   body { font-size: 1.04rem; }
