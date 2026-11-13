@@ -1,0 +1,27 @@
+# Tags shown on the site. A topic may only use tags listed here.
+# name: what readers see; slug: the web address (tag/<slug>/); about: one line.
+# Tags with no pages yet stay hidden automatically.
+- name: শিক্ষকতা
+  slug: teaching
+  about: "স্কুল-কলেজে পড়ানোর রাস্তা, কোন ডিগ্রি, কোন পরীক্ষা, কত বয়স পর্যন্ত।"
+- name: সরকারি চাকরি
+  slug: govt-jobs
+  about: "কেন্দ্র আর রাজ্য সরকারের চাকরি, যোগ্যতা আর প্রস্তুতি, সরকারি বিজ্ঞপ্তি থেকে।"
+- name: কী পড়ব
+  slug: what-to-study
+  about: "মাধ্যমিক, উচ্চ মাধ্যমিকের পর কোন বিষয়, কোন কোর্স, কেন।"
+- name: AI
+  slug: ai
+  about: "কৃত্রিম বুদ্ধিমত্তা: কোন কাজ বদলাচ্ছে, কী শিখলে কাজে লাগবে।"
+- name: চিপ
+  slug: chips
+  about: "সেমিকন্ডাক্টর আর চিপ শিল্প, ভারতে আর পশ্চিমবঙ্গে কী সুযোগ।"
+- name: বিজ্ঞান
+  slug: science
+  about: "বিজ্ঞানের নতুন খবর আর গবেষণার কেরিয়ার।"
+- name: প্রযুক্তি
+  slug: technology
+  about: "নতুন প্রযুক্তি আর তার থেকে তৈরি হওয়া কাজ।"
+- name: স্টার্টআপ
+  slug: startups
+  about: "নিজের ব্যবসা, স্টার্টআপ আর সরকারি সাহায্য।"

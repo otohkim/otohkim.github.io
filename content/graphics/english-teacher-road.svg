@@ -1,0 +1,54 @@
+<svg class="gfx" viewBox="0 0 420 760" style="max-width:440px;margin:0 auto" role="img" aria-label="ইংরেজির টিচার হওয়ার রাস্তা: স্নাতক, তারপর B.Ed আর CTET, তারপর দুটো মোড়ে কেন্দ্রীয় বা রাজ্যের স্কুল">
+  <!-- the road (crisp, soft colour) -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M210,24 L210,600" stroke="#E6DBC3" stroke-width="30"/>
+    <path d="M210,330 C210,370 95,360 95,392" stroke="#E6DBC3" stroke-width="30"/>
+    <path d="M210,330 C210,370 325,360 325,392" stroke="#E6DBC3" stroke-width="30"/>
+    <path d="M210,600 C210,640 95,630 95,662" stroke="#E6DBC3" stroke-width="30"/>
+    <path d="M210,600 C210,640 325,630 325,662" stroke="#E6DBC3" stroke-width="30"/>
+    <path d="M210,24 L210,600" stroke="#FFFDF8" stroke-width="2" stroke-dasharray="9 9"/>
+  </g>
+
+  <!-- start -->
+  <circle data-r="1" cx="210" cy="28" r="20" fill="#F4B740" stroke="#22303A" stroke-width="1.8" data-fill="solid"/>
+  <text x="240" y="34" font-size="16" class="hand">উচ্চ মাধ্যমিক পাস</text>
+
+  <!-- milestone 1: graduation -->
+  <rect data-r="1.2" x="45" y="72" width="330" height="76" fill="#FFFDF8" stroke="#22303A" stroke-width="1.9" data-fill="solid"/>
+  <text x="210" y="102" font-size="18" text-anchor="middle" class="hand">স্নাতক: ইংরেজি মূল বা ইলেকটিভ বিষয়</text>
+  <text x="210" y="130" font-size="15" text-anchor="middle">৩ বছর বা ৬ সেমিস্টার · ইংরেজি আর মোট, দুটোতেই ৫০%</text>
+
+  <!-- milestone 2: B.Ed -->
+  <rect data-r="1.2" x="105" y="182" width="210" height="50" fill="#FFFDF8" stroke="#22303A" stroke-width="1.9" data-fill="solid"/>
+  <text x="210" y="214" font-size="18" text-anchor="middle" class="hand">B.Ed · ৫০%</text>
+
+  <!-- CTET stamp -->
+  <ellipse data-r="1.4" cx="210" cy="282" rx="168" ry="27" fill="#FBF6EC" stroke="#E8705F" stroke-width="2" data-fill="solid"/>
+  <text x="210" y="288" font-size="15.5" text-anchor="middle" fill="#C9513F" style="fill:#C9513F">CTET পেপার ২: B.Ed-এর শেষ বছরেই দেওয়া যায়</text>
+
+  <!-- fork 1: graduate level -->
+  <rect data-r="1.2" x="8" y="392" width="176" height="92" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+  <text x="96" y="420" font-size="17" text-anchor="middle" class="hand" style="fill:#1E8C7F">কেন্দ্রীয় TGT</text>
+  <text x="96" y="446" font-size="15" text-anchor="middle">ক্লাস ৬ থেকে ১০</text>
+  <text x="96" y="470" font-size="15" text-anchor="middle">CTET পেপার ২ লাগবে</text>
+
+  <rect data-r="1.2" x="236" y="392" width="176" height="92" fill="#FFFDF8" stroke="#E8705F" stroke-width="2.4" data-fill="solid"/>
+  <text x="324" y="420" font-size="17" text-anchor="middle" class="hand" style="fill:#C9513F">রাজ্য (SLST)</text>
+  <text x="324" y="446" font-size="15" text-anchor="middle">ক্লাস ৯ আর ১০</text>
+  <text x="324" y="470" font-size="15" text-anchor="middle">স্নাতক বা MA, ৫০%</text>
+
+  <!-- milestone 3: MA -->
+  <rect data-r="1.2" x="95" y="520" width="230" height="50" fill="#FFFDF8" stroke="#22303A" stroke-width="1.9" data-fill="solid"/>
+  <text x="210" y="552" font-size="18" text-anchor="middle" class="hand">MA ইংরেজি · ৫০%</text>
+
+  <!-- fork 2: post-graduate level -->
+  <rect data-r="1.2" x="8" y="662" width="176" height="92" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+  <text x="96" y="690" font-size="17" text-anchor="middle" class="hand" style="fill:#1E8C7F">কেন্দ্রীয় PGT</text>
+  <text x="96" y="716" font-size="15" text-anchor="middle">ক্লাস ১১ আর ১২</text>
+  <text x="96" y="740" font-size="15" text-anchor="middle">CTET লাগে না</text>
+
+  <rect data-r="1.2" x="236" y="662" width="176" height="92" fill="#FFFDF8" stroke="#E8705F" stroke-width="2.4" data-fill="solid"/>
+  <text x="324" y="690" font-size="17" text-anchor="middle" class="hand" style="fill:#C9513F">রাজ্য (SLST)</text>
+  <text x="324" y="716" font-size="15" text-anchor="middle">ক্লাস ১১ আর ১২</text>
+  <text x="324" y="740" font-size="15" text-anchor="middle">MA ৫০% + B.Ed</text>
+</svg>
