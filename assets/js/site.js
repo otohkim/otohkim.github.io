@@ -212,5 +212,12 @@
     document.querySelectorAll(".search").forEach(wireSearch);
     searchPage();
     wireShare();
+    /* the whole card opens its page; links inside it (tags, button) work as usual */
+    document.querySelectorAll(".card[data-href]").forEach(function (c) {
+      c.addEventListener("click", function (e) {
+        if (e.target.closest("a, button")) return;
+        location.href = c.getAttribute("data-href");
+      });
+    });
   });
 })();

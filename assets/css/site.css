@@ -138,14 +138,19 @@ h3 { font-family: var(--hand2); font-weight: 600; font-size: 1.2rem; margin: 1.6
 
 .cards { display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin: 1rem 0 0; padding: 0; list-style: none; }
 @media (min-width: 720px) { .cards.two { grid-template-columns: 1fr 1fr; } }
-.card { background: var(--card); padding: 1.05rem 1.2rem 1.1rem; }
-.card h3 { margin: 0 0 .3rem; font-size: 1.22rem; }
-.card h3 a { color: var(--ink); text-decoration: none; }
-.card h3 a::after { content: ""; position: absolute; inset: 0; z-index: 2; }
+.card { background: var(--card); padding: 1rem 1.1rem 1.1rem; cursor: pointer; transition: background .15s; }
 .card:hover { background: #fff; }
-.card p { margin: .2rem 0 .6rem; color: var(--ink-2); font-size: .98rem; }
-.card .meta { font-size: .85rem; color: var(--ink-3); display: flex; flex-wrap: wrap; gap: .3rem .9rem; align-items: center; }
-.card .chips { position: relative; z-index: 3; }
+.card-in { display: grid; gap: .9rem; grid-template-columns: 1fr; }
+@media (min-width: 640px) { .card-in.has-img { grid-template-columns: 13rem 1fr; align-items: start; } }
+.card-img img { display: block; width: 100%; height: auto; border: 1.5px solid rgba(34,48,58,.25); }
+.card h3 { margin: 0 0 .3rem; font-size: 1.25rem; }
+.card h3 a { color: var(--teal-d); text-decoration: none; }
+.card:hover h3 a, .card h3 a:focus { color: var(--coral-d); text-decoration: underline; }
+.card p { margin: .2rem 0 .5rem; color: var(--ink-2); font-size: .98rem; }
+.card .meta { font-size: .85rem; color: var(--ink-3); }
+.card-foot { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .6rem 1rem; margin-top: .5rem; }
+.read-more { display: inline-block; font-weight: 600; text-decoration: none; color: #fff; background: var(--teal-d); padding: .3rem 1rem .35rem; border-radius: 2px; }
+.read-more:hover { background: var(--coral-d); color: #fff; }
 
 /* ---------- topic page ---------- */
 .stamp-row { display: flex; flex-wrap: wrap; gap: .8rem 1rem; align-items: center; margin: .8rem 0 1.2rem; }

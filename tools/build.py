@@ -336,11 +336,17 @@ def tag_chips(root, names, tags, small=False):
 
 
 def card(root, t, tags):
-    return (f'<li class="card" data-rough="ink thin"><div>'
-            f'<h3><a href="{link(root, t["slug"] + "/")}">{esc(t["title"])}</a></h3>'
+    href = link(root, t["slug"] + "/")
+    thumb = ""
+    if t.get("thumb"):
+        thumb = (f'<a class="card-img" href="{href}" tabindex="-1" aria-hidden="true">'
+                 f'<img src="{root}assets/img/{t["thumb"]}" alt="" loading="lazy" width="640" height="360"></a>')
+    return (f'<li class="card" data-rough="ink thin" data-href="{href}"><div class="card-in{' has-img' if thumb else ''}">{thumb}<div class="card-body">'
+            f'<h3><a href="{href}">{esc(t["title"])}</a></h3>'
             f'<p>{esc(t["summary"])}</p>'
             f'<div class="meta"><span>তথ্য যাচাই: {bn_date(t["checked"])}</span></div>'
-            f'{tag_chips(root, t["tags"], tags, small=True)}</div></li>')
+            f'<div class="card-foot">{tag_chips(root, t["tags"], tags, small=True)}'
+            f'<a class="read-more" href="{href}">পুরোটা পড়ো →</a></div></div></div></li>')
 
 
 def video_id(url):
