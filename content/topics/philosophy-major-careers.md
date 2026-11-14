@@ -26,6 +26,9 @@ keywords:
   - NET philosophy
   - SET philosophy
   - UPSC philosophy optional
+  - AI ethics
+  - Amanda Askell
+  - Anthropic philosopher
   - MA philosophy
   - FYUGP major
 sources:
@@ -41,6 +44,9 @@ sources:
   - title: "Civil Services Examination বিজ্ঞপ্তি, UPSC"
     url: https://upsc.gov.in/
     note: "মেইন পরীক্ষার ৪৮টা ঐচ্ছিক বিষয়ের একটা দর্শন।"
+  - title: "Claude's Character, Anthropic"
+    url: https://www.anthropic.com/research/claude-character
+    note: "Claude-এর চরিত্র গড়ার কাজ নিয়ে Anthropic-এর লেখা; আমান্ডা অ্যাসকেল এই কাজের প্রধান (২০২১ থেকে)।"
   - title: "AEES Recruitment Notification 01/2026, Atomic Energy Education Society"
     url: https://aees.onlineregistrationforms.com
     note: "PGT-র বিষয়ের তালিকায় দর্শন নেই।"
@@ -72,6 +78,12 @@ UPSC সিভিল সার্ভিসের মেইন পরীক্ষ
 - **আইন:** যেকোনো স্নাতকের পর ৩ বছরের LLB।
 - **লেখা আর সাংবাদিকতা:** যুক্তি দিয়ে গুছিয়ে লেখার অভ্যাস এখানে বড় সুবিধা।
 - **AI-নীতি আর এথিক্স:** নতুন কাজের দিক। প্রযুক্তি সংস্থা আর গবেষণা প্রতিষ্ঠানে AI কতটা নিরাপদ ও ন্যায্য, সেই প্রশ্ন নিয়ে কাজ হয়। এই কাজ এখনও মূলত বড় শহরে, আর সঙ্গে প্রযুক্তি বোঝাও দরকার।
+
+@@note
+kind: info
+label: "জানো কি?"
+text: "AI সংস্থা **Anthropic**-এ দর্শনে PhD করা গবেষক **আমান্ডা অ্যাসকেল** ২০২১ থেকে ওদের AI মডেল Claude-এর চরিত্র আর নৈতিক মূল্যবোধ গড়ে তোলার দলের প্রধান। ২০২৬-এর জানুয়ারিতে প্রকাশিত Claude-এর নীতিপত্রের (constitution) প্রধান লেখকও তিনি। দর্শনের প্রশ্ন, যেমন ভালো-মন্দ কী, সত্যি বলা কেন জরুরি, এখন AI তৈরির কাজেও লাগছে।"
+@@
 
 ## দুটো কাজের কথা
 
