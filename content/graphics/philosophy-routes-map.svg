@@ -1,0 +1,27 @@
+<svg class="gfx" viewBox="0 0 540 700" style="max-width:560px;margin:0 auto" role="img" aria-label="দর্শন মেজরের পর পাঁচটা রাস্তা: স্কুলে পড়ানো, কলেজে পড়ানো, গবেষণা, সিভিল সার্ভিস, আর আইন, লেখা বা নীতি">
+<g fill="none" stroke-linecap="round">
+<path data-r="1.1" d="M270,255 Q226,150 138,78" stroke="#2FB3A3" stroke-width="2.6"/>
+<path data-r="1.1" d="M270,255 Q358,183 402,78" stroke="#2FB3A3" stroke-width="2.6"/>
+<path data-r="1.1" d="M270,255 Q181,331 138,440" stroke="#22303A" stroke-width="2.6"/>
+<path data-r="1.1" d="M270,255 Q313,364 402,440" stroke="#E8705F" stroke-width="2.6"/>
+<path data-r="1.1" d="M270,255 Q242,438 270,620" stroke="#D9A02E" stroke-width="2.6"/>
+</g>
+<ellipse data-r="1.4" cx="270" cy="255" rx="150" ry="66" fill="#F8D98A" stroke="#22303A" stroke-width="2.2" data-fill="solid"/>
+<text x="270" y="251" font-size="30" text-anchor="middle" class="hand">দর্শন মেজর</text>
+<text x="270" y="285" font-size="19" text-anchor="middle">এরপর কোন রাস্তা?</text>
+<rect data-r="1.2" x="12" y="26" width="252" height="104" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+<text x="138" y="70" font-size="25" text-anchor="middle" class="hand">স্কুলে পড়ানো</text>
+<text x="138" y="106" font-size="18" text-anchor="middle">ক্লাস ১১–১২ · MA + B.Ed</text>
+<rect data-r="1.2" x="276" y="26" width="252" height="104" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+<text x="402" y="70" font-size="25" text-anchor="middle" class="hand">কলেজে পড়ানো</text>
+<text x="402" y="106" font-size="18" text-anchor="middle">MA ৫৫% + NET বা SET</text>
+<rect data-r="1.2" x="12" y="388" width="252" height="104" fill="#FFFDF8" stroke="#22303A" stroke-width="2.4" data-fill="solid"/>
+<text x="138" y="432" font-size="25" text-anchor="middle" class="hand">আইন, লেখা, নীতি</text>
+<text x="138" y="468" font-size="18" text-anchor="middle">LLB · সাংবাদিকতা · AI-নীতি</text>
+<rect data-r="1.2" x="276" y="388" width="252" height="104" fill="#FFFDF8" stroke="#E8705F" stroke-width="2.4" data-fill="solid"/>
+<text x="402" y="432" font-size="25" text-anchor="middle" class="hand">সিভিল সার্ভিস</text>
+<text x="402" y="468" font-size="18" text-anchor="middle">UPSC-তে দর্শন ঐচ্ছিক বিষয়</text>
+<rect data-r="1.2" x="144" y="568" width="252" height="104" fill="#FFFDF8" stroke="#D9A02E" stroke-width="2.4" data-fill="solid"/>
+<text x="270" y="612" font-size="25" text-anchor="middle" class="hand">গবেষণা</text>
+<text x="270" y="648" font-size="18" text-anchor="middle">NET-JRF পেলে PhD-তে বৃত্তি</text>
+</svg>

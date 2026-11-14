@@ -1,0 +1,27 @@
+<svg class="gfx" viewBox="0 0 540 700" style="max-width:560px;margin:0 auto" role="img" aria-label="Education আর M.Ed-এর পর পাঁচটা রাস্তা: B.Ed কলেজে শিক্ষক, কলেজ-বিশ্ববিদ্যালয়, এড-টেক ও NGO, স্কুলে ক্লাস ১১–১২, গবেষণা">
+<g fill="none" stroke-linecap="round">
+<path data-r="1.1" d="M270,255 Q226,150 138,78" stroke="#2FB3A3" stroke-width="2.6"/>
+<path data-r="1.1" d="M270,255 Q358,183 402,78" stroke="#2FB3A3" stroke-width="2.6"/>
+<path data-r="1.1" d="M270,255 Q181,331 138,440" stroke="#22303A" stroke-width="2.6"/>
+<path data-r="1.1" d="M270,255 Q313,364 402,440" stroke="#E8705F" stroke-width="2.6"/>
+<path data-r="1.1" d="M270,255 Q242,438 270,620" stroke="#D9A02E" stroke-width="2.6"/>
+</g>
+<ellipse data-r="1.4" cx="270" cy="255" rx="150" ry="66" fill="#F8D98A" stroke="#22303A" stroke-width="2.2" data-fill="solid"/>
+<text x="270" y="251" font-size="30" text-anchor="middle" class="hand">Education + M.Ed</text>
+<text x="270" y="285" font-size="19" text-anchor="middle">কোথায় আবেদন?</text>
+<rect data-r="1.2" x="12" y="26" width="252" height="104" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+<text x="138" y="70" font-size="25" text-anchor="middle" class="hand">B.Ed কলেজে শিক্ষক</text>
+<text x="138" y="106" font-size="18" text-anchor="middle">PG ৫৫% + M.Ed ৫৫%</text>
+<rect data-r="1.2" x="276" y="26" width="252" height="104" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+<text x="402" y="70" font-size="25" text-anchor="middle" class="hand">কলেজ-বিশ্ববিদ্যালয়</text>
+<text x="402" y="106" font-size="18" text-anchor="middle">M.Ed ৫৫% + NET বা SET</text>
+<rect data-r="1.2" x="12" y="388" width="252" height="104" fill="#FFFDF8" stroke="#22303A" stroke-width="2.4" data-fill="solid"/>
+<text x="138" y="432" font-size="25" text-anchor="middle" class="hand">এড-টেক ও NGO</text>
+<text x="138" y="468" font-size="18" text-anchor="middle">কারিকুলাম · শিক্ষক-প্রশিক্ষণ</text>
+<rect data-r="1.2" x="276" y="388" width="252" height="104" fill="#FFFDF8" stroke="#E8705F" stroke-width="2.4" data-fill="solid"/>
+<text x="402" y="432" font-size="25" text-anchor="middle" class="hand">স্কুলে ক্লাস ১১–১২</text>
+<text x="402" y="468" font-size="18" text-anchor="middle">Education বিষয় · SLST</text>
+<rect data-r="1.2" x="144" y="568" width="252" height="104" fill="#FFFDF8" stroke="#D9A02E" stroke-width="2.4" data-fill="solid"/>
+<text x="270" y="612" font-size="25" text-anchor="middle" class="hand">গবেষণা</text>
+<text x="270" y="648" font-size="18" text-anchor="middle">NET-JRF পেলে PhD-তে বৃত্তি</text>
+</svg>
