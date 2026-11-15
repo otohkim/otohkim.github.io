@@ -1,0 +1,32 @@
+<svg class="gfx" viewBox="0 0 540 760" style="max-width:560px;margin:0 auto" role="img" aria-label="চার বছরের BSc কম্পিউটার সায়েন্সের পরিকল্পনা: প্রথম বছর প্রোগ্রামিং আর অঙ্ক, দ্বিতীয় বছর ডেটা স্ট্রাকচার আর প্রজেক্ট, তৃতীয় বছর ইন্টার্নশিপ আর GATE, চতুর্থ বছর গবেষণা প্রজেক্ট আর পরের রাস্তা বাছাই">
+<path data-r="1.1" d="M60,40 L60,690" stroke="#22303A" stroke-width="3" fill="none" stroke-linecap="round"/>
+<g>
+<circle cx="60" cy="90" r="26" fill="#2FB3A3"/><text x="60" y="99" font-size="24" text-anchor="middle" fill="#fff">১</text>
+<rect data-r="1.2" x="104" y="40" width="420" height="110" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+<text x="124" y="80" font-size="23" class="hand">প্রথম বছর: ভিত গড়া</text>
+<text x="124" y="112" font-size="17">একটা প্রোগ্রামিং ভাষা (Python বা C), অঙ্ক</text>
+<text x="124" y="136" font-size="17">AI দিয়ে কোড লেখানো আর যাচাই করা</text>
+</g>
+<g>
+<circle cx="60" cy="250" r="26" fill="#2FB3A3"/><text x="60" y="259" font-size="24" text-anchor="middle" fill="#fff">২</text>
+<rect data-r="1.2" x="104" y="200" width="420" height="110" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+<text x="124" y="240" font-size="23" class="hand">দ্বিতীয় বছর: নিজে বানাও</text>
+<text x="124" y="272" font-size="17">ডেটা স্ট্রাকচার, ডেটাবেস</text>
+<text x="124" y="296" font-size="17">ছোট প্রজেক্ট, GitHub-এ রাখো</text>
+</g>
+<g>
+<circle cx="60" cy="410" r="26" fill="#D9A02E"/><text x="60" y="419" font-size="24" text-anchor="middle" fill="#fff">৩</text>
+<rect data-r="1.2" x="104" y="360" width="420" height="110" fill="#FFFDF8" stroke="#D9A02E" stroke-width="2.4" data-fill="solid"/>
+<text x="124" y="400" font-size="23" class="hand">তৃতীয় বছর: বাইরে পা</text>
+<text x="124" y="432" font-size="17">ইন্টার্নশিপ, NPTEL কোর্স</text>
+<text x="124" y="456" font-size="17">এই বছর থেকেই GATE দেওয়া যায়</text>
+</g>
+<g>
+<circle cx="60" cy="570" r="26" fill="#E8705F"/><text x="60" y="579" font-size="24" text-anchor="middle" fill="#fff">৪</text>
+<rect data-r="1.2" x="104" y="520" width="420" height="110" fill="#FFFDF8" stroke="#E8705F" stroke-width="2.4" data-fill="solid"/>
+<text x="124" y="560" font-size="23" class="hand">চতুর্থ বছর: গবেষণা প্রজেক্ট</text>
+<text x="124" y="592" font-size="17">৭৫% থাকলে NET আর সরাসরি PhD</text>
+<text x="124" y="616" font-size="17">নইলে চাকরি, MSc/MCA, GATE দিয়ে M.Tech</text>
+</g>
+<text x="290" y="700" font-size="17" text-anchor="middle" fill="#5B6B73">প্রতি বছর একটা জিনিস হাতে-কলমে বানাও</text>
+</svg>
