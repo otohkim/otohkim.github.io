@@ -1,0 +1,34 @@
+<svg class="gfx" viewBox="0 0 540 720" style="max-width:560px;margin:0 auto" role="img" aria-label="কেমিস্ট্রি থেকে ছটা রাস্তা: ওষুধ শিল্প, গবেষণা, রসায়ন আর জীববিজ্ঞান, রসায়ন আর কম্পিউটার বা AI, ব্যাটারি ও শক্তি, শিক্ষকতা">
+<g fill="none" stroke-linecap="round" stroke-width="2.6">
+<path data-r="1.1" d="M270,330 Q200,200 138,128" stroke="#2FB3A3"/>
+<path data-r="1.1" d="M270,330 Q340,200 402,128" stroke="#2FB3A3"/>
+<path data-r="1.1" d="M200,350 Q120,350 110,330" stroke="#E8705F"/>
+<path data-r="1.1" d="M340,350 Q420,350 430,330" stroke="#E8705F"/>
+<path data-r="1.1" d="M270,392 Q200,480 138,540" stroke="#D9A02E"/>
+<path data-r="1.1" d="M270,392 Q340,480 402,540" stroke="#22303A"/>
+</g>
+<ellipse data-r="1.4" cx="270" cy="360" rx="96" ry="44" fill="#F8D98A" stroke="#22303A" stroke-width="2.2" data-fill="solid"/>
+<text x="270" y="356" font-size="27" text-anchor="middle" class="hand">কেমিস্ট্রি</text>
+<text x="270" y="384" font-size="16" text-anchor="middle">মেজর, ২য় বছর</text>
+<rect data-r="1.2" x="16" y="28" width="244" height="100" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+<text x="138" y="70" font-size="23" text-anchor="middle" class="hand">ওষুধ শিল্প</text>
+<text x="138" y="102" font-size="16" text-anchor="middle">গবেষণা, মান-পরীক্ষা (QC)</text>
+<rect data-r="1.2" x="280" y="28" width="244" height="100" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+<text x="402" y="70" font-size="23" text-anchor="middle" class="hand">গবেষণা</text>
+<text x="402" y="102" font-size="16" text-anchor="middle">IIT, IISER, CSIR-এর ল্যাব</text>
+<rect data-r="1.2" x="10" y="220" width="200" height="110" fill="#FFF4F1" stroke="#E8705F" stroke-width="2.4" data-fill="solid"/>
+<text x="110" y="262" font-size="21" text-anchor="middle" class="hand">রসায়ন + জীববিদ্যা</text>
+<text x="110" y="292" font-size="15" text-anchor="middle">প্রোটিন, DNA, ওষুধ</text>
+<text x="110" y="314" font-size="15" text-anchor="middle">নকশা</text>
+<rect data-r="1.2" x="330" y="220" width="200" height="110" fill="#FFF4F1" stroke="#E8705F" stroke-width="2.4" data-fill="solid"/>
+<text x="430" y="262" font-size="21" text-anchor="middle" class="hand">রসায়ন + AI</text>
+<text x="430" y="292" font-size="15" text-anchor="middle">কম্পিউটারে অণু আর</text>
+<text x="430" y="314" font-size="15" text-anchor="middle">ওষুধ খোঁজা</text>
+<rect data-r="1.2" x="16" y="540" width="244" height="100" fill="#FFFDF8" stroke="#D9A02E" stroke-width="2.4" data-fill="solid"/>
+<text x="138" y="582" font-size="23" text-anchor="middle" class="hand">ব্যাটারি ও শক্তি</text>
+<text x="138" y="614" font-size="16" text-anchor="middle">নতুন পদার্থ, সবুজ রসায়ন</text>
+<rect data-r="1.2" x="280" y="540" width="244" height="100" fill="#FFFDF8" stroke="#22303A" stroke-width="2.4" data-fill="solid"/>
+<text x="402" y="582" font-size="23" text-anchor="middle" class="hand">শিক্ষকতা</text>
+<text x="402" y="614" font-size="16" text-anchor="middle">স্কুল, কলেজ</text>
+<text x="270" y="690" font-size="16" text-anchor="middle" fill="#5B6B73">কমলা দুটো ঘর: আন্তঃবিষয়ের দিক, যেখানে এখন সবচেয়ে বেশি নতুন কাজ</text>
+</svg>
