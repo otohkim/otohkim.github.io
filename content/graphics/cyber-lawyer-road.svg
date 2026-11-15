@@ -1,0 +1,28 @@
+<svg class="gfx" viewBox="0 0 540 780" style="max-width:560px;margin:0 auto" role="img" aria-label="সাইবার আইনজীবী হওয়ার রাস্তা: ক্লাস ১২-এর পর CLAT দিয়ে ৫ বছরের LLB, অথবা স্নাতকের পর ৩ বছরের LLB; তারপর LLM বা ডিপ্লোমায় সাইবার আইন; আদালতে প্র্যাকটিসের জন্য AIBE; কাজ আদালতে, কোম্পানিতে আর টেক সংস্থায়">
+<g fill="none" stroke-linecap="round" stroke-width="2.6">
+<path data-r="1.1" d="M138,130 L138,214" stroke="#2FB3A3"/>
+<path data-r="1.1" d="M138,316 Q170,360 252,382" stroke="#2FB3A3"/>
+<path data-r="1.1" d="M402,130 Q410,250 300,382" stroke="#E8705F"/>
+<path data-r="1.1" d="M270,452 L270,500" stroke="#22303A"/>
+<path data-r="1.1" d="M270,590 L270,632" stroke="#22303A"/>
+</g>
+<rect data-r="1.2" x="12" y="26" width="252" height="104" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+<text x="138" y="70" font-size="25" text-anchor="middle" class="hand">ক্লাস ১২-এর পর</text>
+<text x="138" y="106" font-size="18" text-anchor="middle">CLAT UG · ৪৫% (SC/ST ৪০%)</text>
+<rect data-r="1.2" x="276" y="26" width="252" height="104" fill="#FFFDF8" stroke="#E8705F" stroke-width="2.4" data-fill="solid"/>
+<text x="402" y="70" font-size="25" text-anchor="middle" class="hand">স্নাতকের পর</text>
+<text x="402" y="106" font-size="18" text-anchor="middle">B.Tech, BSc বা যেকোনো বিষয়</text>
+<rect data-r="1.2" x="12" y="214" width="252" height="102" fill="#FFFDF8" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+<text x="138" y="257" font-size="25" text-anchor="middle" class="hand">৫ বছরের BA LLB</text>
+<text x="138" y="292" font-size="18" text-anchor="middle">NLU, যেমন কলকাতার WBNUJS</text>
+<text x="452" y="300" font-size="18" text-anchor="middle" fill="#C4513F">৩ বছরের LLB</text>
+<ellipse data-r="1.4" cx="270" cy="417" rx="110" ry="40" fill="#F8D98A" stroke="#22303A" stroke-width="2.2" data-fill="solid"/>
+<text x="270" y="427" font-size="28" text-anchor="middle" class="hand">LLB হাতে</text>
+<rect data-r="1.2" x="60" y="500" width="420" height="90" fill="#FFFDF8" stroke="#D9A02E" stroke-width="2.4" data-fill="solid"/>
+<text x="270" y="538" font-size="25" text-anchor="middle" class="hand">সাইবার আইনে বিশেষ পড়া</text>
+<text x="270" y="572" font-size="18" text-anchor="middle">LLM (CLAT PG) · NUJS-এর ডেটা আইন · ডিপ্লোমা</text>
+<text x="300" y="618" font-size="16" fill="#5B6B73">আদালতে লড়তে: বার কাউন্সিল + AIBE</text>
+<rect data-r="1.4" x="40" y="632" width="460" height="128" fill="#DFF2EE" stroke="#22303A" stroke-width="2.6" data-fill="solid"/>
+<text x="270" y="682" font-size="32" text-anchor="middle" class="hand">সাইবার আইনজীবী</text>
+<text x="270" y="728" font-size="19" text-anchor="middle">আদালত · কোম্পানির ডেটা সুরক্ষা · টেক সংস্থা</text>
+</svg>
