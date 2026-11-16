@@ -304,6 +304,7 @@ def page(*, root, path, title, desc, body, og_image=None, keywords=None, head_se
 <header class="site-head"><div class="wrap">
 <a class="brand" href="{link(root, '')}"><img src="{root}assets/img/logo-96.png" srcset="{root}assets/img/logo-192.png 2x" alt="" width="46" height="46"><span><span class="name">{SITE_NAME}</span><span class="tag">What next? · পড়াশোনা আর কেরিয়ারের প্রশ্ন</span></span></a>
 {hs}
+<a class="host" href="{link(root, 'about/')}#host" title="ড. ভিক্টর রায় · Dr. Victor Roy"><img src="{root}assets/img/host-victor-96.webp" srcset="{root}assets/img/host-victor-192.webp 2x" alt="ড. ভিক্টর রায়" width="48" height="48"><span><span class="host-name">ড. ভিক্টর রায়</span><span class="host-role">Dr. Victor Roy · পদার্থবিজ্ঞানী</span></span></a>
 </div></header>
 <main>
 {body}
@@ -477,6 +478,7 @@ def about_page():
     root = "../"
     body = f"""<div class="wrap prose">{crumbs(root, [("এই সাইট সম্পর্কে", None)])}
 <h1>এই সাইট সম্পর্কে</h1>
+<div class="host-card" id="host" data-rough="ink thin"><img src="{root}assets/img/host-victor-480.webp" alt="ড. ভিক্টর রায়" width="160" height="160"><div><p class="host-card-name">ড. ভিক্টর রায় <span>Dr. Victor Roy</span></p><p>পদার্থবিজ্ঞানী, শিক্ষক ও গবেষক। অতঃকিম চ্যানেল আর এই সাইট আমার উদ্যোগ: পশ্চিমবঙ্গের ছাত্রছাত্রীরা যাতে খবর থেকে কেরিয়ারের দিশা পায়, বাংলায়, সূত্র সহ।</p></div></div>
 <p>অতঃকিম মানে "এরপর কী?"। ইউটিউব চ্যানেলে প্রতি সপ্তাহে প্রযুক্তি, বিজ্ঞান আর শিল্প-বাণিজ্যের খবর থেকে কেরিয়ারের কথা বলি। সঙ্গে থাকে সাম্প্রতিক AI খবর আর বিজ্ঞানে AI-এর অগ্রগতি: AI কীভাবে গণিত, পদার্থবিদ্যা, জীববিজ্ঞানে নতুন কাজ করছে। কমেন্টে অনেক প্রশ্ন আসে, যেমন কোন ডিগ্রি লাগবে, বয়স কত পর্যন্ত, কোথায় আবেদন। সেই প্রশ্নগুলোর উত্তর এখানে এক পাতায় একটা করে, ছবি আর ডায়াগ্রামে।</p>
 <p>প্রতিটা পাতায় থাকে: কবে তথ্য যাচাই করা হয়েছে, কোন সরকারি সূত্র থেকে, আর আগের সংস্করণের লিংক। নিয়ম প্রতিটা নতুন বিজ্ঞপ্তিতে বদলাতে পারে, তাই আবেদনের আগে মূল বিজ্ঞপ্তি নিজে পড়ে নিও।</p>
 <p>ভুল চোখে পড়লে বা নতুন প্রশ্ন থাকলে <a href="{CHANNEL_URL}">চ্যানেলের</a> যেকোনো ভিডিওর কমেন্টে লেখো।</p>
