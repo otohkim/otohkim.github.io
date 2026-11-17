@@ -1,0 +1,33 @@
+<svg class="gfx" viewBox="0 0 380 795" style="max-width:440px;margin:0 auto" role="img" aria-label="Zoology মেজর থেকে চারটে গন্তব্য: বায়োটেক বা ওষুধ গবেষণা, বায়োইনফরম্যাটিক্স আর AI, পরিবেশ আর বন্যপ্রাণী, পড়ানো আর গবেষণা। M.Tech শুধু কয়েকটা রাস্তায় লাগে।">
+<rect data-r="1.4" x="40" y="10" width="300" height="76" fill="#F8D98A" stroke="#22303A" stroke-width="2.4" data-fill="solid"/>
+<text x="190" y="44" font-size="22" text-anchor="middle" class="hand">Zoology মেজর, ২য় বছর</text>
+<text x="190" y="72" font-size="17" text-anchor="middle">কোথায় পৌঁছতে চাও?</text>
+<g fill="none" stroke-linecap="round" stroke-width="2.6" stroke="#22303A">
+<path data-r="1.1" d="M90,86 Q20,96 16,130 L16,640"/>
+<path data-r="1.1" d="M16,193 L30,193"/>
+<path data-r="1.1" d="M16,351 L30,351"/>
+<path data-r="1.1" d="M16,496 L30,496"/>
+<path data-r="1.1" d="M16,640 L30,640"/>
+</g>
+<rect data-r="1.2" x="30" y="110" width="340" height="167" fill="#DFF2EE" stroke="#2FB3A3" stroke-width="2.4" data-fill="solid"/>
+<text x="44" y="146" font-size="22" class="hand" fill="#1E7F74">বায়োটেক / ওষুধ গবেষণাগার</text>
+<text x="44" y="176" font-size="18">MSc Biotechnology</text>
+<text x="44" y="203" font-size="18">(IIT JAM BT বা GAT-B)</text>
+<text x="44" y="230" font-size="18">অথবা ৪ বছরের অনার্স + GATE</text>
+<text x="44" y="257" font-size="18">→ <tspan font-weight="700">M.Tech Biotech</tspan></text>
+<rect data-r="1.2" x="30" y="295" width="340" height="113" fill="#FFF6DD" stroke="#F4B740" stroke-width="2.4" data-fill="solid"/>
+<text x="44" y="331" font-size="22" class="hand" fill="#9A6A08">বায়োইনফরম্যাটিক্স, AI</text>
+<text x="44" y="361" font-size="18">এখন থেকেই Python, পরিসংখ্যান</text>
+<text x="44" y="388" font-size="18">→ MSc বা <tspan font-weight="700">M.Tech</tspan> Bioinformatics</text>
+<rect data-r="1.2" x="30" y="426" width="340" height="140" fill="#FFF4F1" stroke="#E8705F" stroke-width="2.4" data-fill="solid"/>
+<text x="44" y="462" font-size="22" class="hand" fill="#B44A3B">পরিবেশ, বন্যপ্রাণী</text>
+<text x="44" y="492" font-size="18">MSc Zoology / Wildlife /</text>
+<text x="44" y="519" font-size="18">Environmental Science</text>
+<text x="44" y="546" font-size="18">(GATE-এ EY পেপার আছে)</text>
+<rect data-r="1.2" x="30" y="584" width="340" height="113" fill="#FFFDF8" stroke="#22303A" stroke-width="2.4" data-fill="solid"/>
+<text x="44" y="620" font-size="22" class="hand" fill="#22303A">পড়ানো, গবেষণা</text>
+<text x="44" y="650" font-size="18">MSc → NET/SET → PhD</text>
+<text x="44" y="677" font-size="18">M.Tech লাগে না</text>
+<text x="190" y="733" font-size="18" text-anchor="middle" fill="#5B6B73">M.Tech সব রাস্তায় লাগে না।</text>
+<text x="190" y="761" font-size="18" text-anchor="middle" fill="#5B6B73">আগে গন্তব্য, তারপর ডিগ্রি।</text>
+</svg>
