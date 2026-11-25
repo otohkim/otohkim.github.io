@@ -418,9 +418,12 @@ def home_page(topics, tags):
         f'<li><a class="chip" data-rough="ink thin" href="{link(root, "tag/" + tags[n]["slug"] + "/")}">{esc(n)}<small>{bn(counts[n])}</small></a></li>'
         for n in used) + "</ul>"
     latest = "".join(card(root, t, tags) for t in topics[:12])
-    body = f"""<div class="wrap">
-<section class="hero">
-{HERO_DOODLE}
+    body = f"""<div class="sea-banner" aria-hidden="true"><picture>
+<source media="(max-width: 640px)" srcset="assets/img/sea-banner-mobile.webp" width="1200" height="840">
+<img src="assets/img/sea-banner-wide.webp" alt="" width="2400" height="750" fetchpriority="high">
+</picture></div>
+<div class="wrap">
+<section class="hero hero-sea">
 <h1>কী পড়বে? তারপর <span class="hl">কী?</span></h1>
 <p>কেরিয়ার আর পড়াশোনার প্রশ্ন, সাম্প্রতিক AI খবর, বিজ্ঞানে AI-এর অগ্রগতি: ছোট ছোট উত্তর, সূত্র আর তারিখ সহ। বাংলায় বা ইংরেজিতে খোঁজো।</p>
 {search_box("খোঁজো: ইংরেজির টিচার, CTET, english teacher hote chai...")}
